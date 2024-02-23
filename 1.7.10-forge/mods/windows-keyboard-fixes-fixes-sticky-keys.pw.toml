@@ -1,0 +1,13 @@
+name = "Windows Keyboard Fixes - Fixes sticky keys"
+filename = "Windows Keyboard Fixes-forge-1.7-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xgMOWzzt/versions/eypC0JYR/Windows%20Keyboard%20Fixes-forge-1.7-1.0.1.jar"
+hash-format = "sha1"
+hash = "3a3ec6f79da81201194d831e858e4f5a45a99a0b"
+
+[update]
+[update.modrinth]
+mod-id = "xgMOWzzt"
+version = "eypC0JYR"

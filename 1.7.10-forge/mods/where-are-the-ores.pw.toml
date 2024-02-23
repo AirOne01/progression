@@ -1,0 +1,13 @@
+name = "Where Are The Ores?"
+filename = "WhereAreTheOres-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NoPLZZ1N/versions/1.1.1/WhereAreTheOres-1.1.1.jar"
+hash-format = "sha1"
+hash = "da1d2985f045b760570abb7513fd61d21f4c023b"
+
+[update]
+[update.modrinth]
+mod-id = "NoPLZZ1N"
+version = "j4aPEjPP"

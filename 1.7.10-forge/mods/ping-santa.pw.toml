@@ -1,0 +1,13 @@
+name = "Ping!"
+filename = "ping-1.7.10-1.1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lUPtmik6/versions/tXE3CeuB/ping-1.7.10-1.1.4.jar"
+hash-format = "sha1"
+hash = "27e6f434f7c246d3cb98d99da540ed2cea47606c"
+
+[update]
+[update.modrinth]
+mod-id = "lUPtmik6"
+version = "tXE3CeuB"

@@ -1,0 +1,13 @@
+name = "Unicode Fix"
+filename = "1.7.10-unicodefix-1.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A7LQHnNY/versions/ElPoldqK/1.7.10-unicodefix-1.3.jar"
+hash-format = "sha1"
+hash = "7e1eafb21cc84478d64fec4acb4c7ee62e42a7de"
+
+[update]
+[update.modrinth]
+mod-id = "A7LQHnNY"
+version = "ElPoldqK"

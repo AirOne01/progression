@@ -1,0 +1,13 @@
+name = "Modern Gamemode Switcher"
+filename = "gamemode-6b0b8c0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/syFHcccl/versions/vKnjI0VX/gamemode-6b0b8c0.jar"
+hash-format = "sha1"
+hash = "2add75b11601ae8332b49dd38f1d3d842a74ebbc"
+
+[update]
+[update.modrinth]
+mod-id = "syFHcccl"
+version = "vKnjI0VX"
