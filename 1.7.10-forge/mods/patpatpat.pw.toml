@@ -1,0 +1,13 @@
+name = "PatPatPat"
+filename = "PatPatPat-Forge-1.7.10-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BErx9tPq/versions/yz1FmV7I/PatPatPat-Forge-1.7.10-1.0.0.jar"
+hash-format = "sha1"
+hash = "4028ee735981f2aa3a9e186ddd208c7bfaed2221"
+
+[update]
+[update.modrinth]
+mod-id = "BErx9tPq"
+version = "yz1FmV7I"

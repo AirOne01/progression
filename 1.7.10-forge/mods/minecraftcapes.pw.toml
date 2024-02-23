@@ -1,0 +1,13 @@
+name = "MinecraftCapes"
+filename = "MinecraftCapes Forge 1.7.10-11.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9gNVPfzw/versions/eqJvz37x/MinecraftCapes%20Forge%201.7.10-11.1.0.jar"
+hash-format = "sha1"
+hash = "142e6064f8a8cb02d6ebd8aef3650901db082c40"
+
+[update]
+[update.modrinth]
+mod-id = "9gNVPfzw"
+version = "eqJvz37x"

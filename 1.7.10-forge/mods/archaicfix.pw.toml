@@ -1,0 +1,13 @@
+name = "ArchaicFix"
+filename = "archaicfix-0.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xTJanN3v/versions/b8PnLR4l/archaicfix-0.7.1.jar"
+hash-format = "sha1"
+hash = "d13a29e10a55bcf0197cfb648d293c5756adeb39"
+
+[update]
+[update.modrinth]
+mod-id = "xTJanN3v"
+version = "b8PnLR4l"

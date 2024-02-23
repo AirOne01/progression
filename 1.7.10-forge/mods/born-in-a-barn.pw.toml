@@ -1,0 +1,13 @@
+name = "Born in a Barn"
+filename = "Born in a Barn 1.7.x-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WfPGKC8F/versions/t2p54yVF/Born%20in%20a%20Barn%201.7.x-1.1.jar"
+hash-format = "sha1"
+hash = "39066278edbcd8efb8c50226570b24290c58d9f8"
+
+[update]
+[update.modrinth]
+mod-id = "WfPGKC8F"
+version = "t2p54yVF"

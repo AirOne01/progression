@@ -1,0 +1,13 @@
+name = "MAtmos"
+filename = "matmos-1.7.10-36.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wPfV83mL/versions/uC0HAPwp/matmos-1.7.10-36.0.1.jar"
+hash-format = "sha1"
+hash = "ae8dfd8f3c01d7bc370537b5fd6b513a0e52afdf"
+
+[update]
+[update.modrinth]
+mod-id = "wPfV83mL"
+version = "uC0HAPwp"

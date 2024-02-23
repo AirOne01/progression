@@ -1,0 +1,13 @@
+name = "EasyLAN"
+filename = "EasyLAN-v1.2-[1.7.10].jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GwNdY4Sy/versions/RTVB5a43/EasyLAN-v1.2-%5B1.7.10%5D.jar"
+hash-format = "sha1"
+hash = "2fe07edd0c147b987737d1718523d7e9cc3a1de0"
+
+[update]
+[update.modrinth]
+mod-id = "GwNdY4Sy"
+version = "RTVB5a43"

@@ -1,0 +1,13 @@
+name = "Resource Pack Organizer"
+filename = "ResourcePackOrganizer  MC-1.7.10  v1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MFYWYS0q/versions/gMZ5UAto/ResourcePackOrganizer%20%20MC-1.7.10%20%20v1.0.2.jar"
+hash-format = "sha1"
+hash = "07aa03493c542141e3e4b6d5302bb2607429d68c"
+
+[update]
+[update.modrinth]
+mod-id = "MFYWYS0q"
+version = "gMZ5UAto"

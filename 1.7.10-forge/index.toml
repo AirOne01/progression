@@ -1,0 +1,166 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/archaicfix.pw.toml"
+hash = "148aa86942880d265d6c36ba3dba8695c756fd1d4591636e0b0f83c42c6f193c"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "5a78905bf35e67ea234963264fb0cc88bc16fd3510d5bc0c5e6c730556227747"
+metafile = true
+
+[[files]]
+file = "mods/born-in-a-barn.pw.toml"
+hash = "11d7577a3da3bc97d5356dc579d14c60bc7889819ec6073e7d75d7f8ea1b7ba6"
+metafile = true
+
+[[files]]
+file = "mods/bugtorch.pw.toml"
+hash = "2b9fe60796061e3d3bf71877a886e883ec92e2ea88572ed43173291e6145820c"
+metafile = true
+
+[[files]]
+file = "mods/codechickencore-unofficial.pw.toml"
+hash = "51971e711e1d3f1cd2592abd3a08b7cf9a87a8661b879f74c84b27ee85327914"
+metafile = true
+
+[[files]]
+file = "mods/codechickenlib-unofficial.pw.toml"
+hash = "6001cb559d8f0a712ec2cd49e907961e618a98bf1aa6d2f5078437b460638849"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "7679b829aff4695c08ca04dacd8b482c17dc7617e0fc77c1f290542ee5819361"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "98a69dfedcdb6c1f1d840a26b6a619f2d3ad7062c6bc657b0d5135ba944e9bbc"
+metafile = true
+
+[[files]]
+file = "mods/easylan.pw.toml"
+hash = "6576138aa553889eeeb99b2603f2a3d203622535408edef9db48262737c8ae8a"
+metafile = true
+
+[[files]]
+file = "mods/entitycullingunofficial.pw.toml"
+hash = "a11f3daedd1828e87e9105c7ab51edcb5a839028ea02194f75b01e6074312d4e"
+metafile = true
+
+[[files]]
+file = "mods/falsetweaks.pw.toml"
+hash = "1ab5973ea5394a8596d5ec6422e27e4fb7c1dd7b82e753e0d4dbbc7dd1a2caf0"
+metafile = true
+
+[[files]]
+file = "mods/foamfix.pw.toml"
+hash = "9094e82bb9ceb62536b856e42fe2041debfff3ee3ecd591b004e8119f908a7d4"
+metafile = true
+
+[[files]]
+file = "mods/fplib.pw.toml"
+hash = "301566565d6530fa3658cf235bddc17af70e52995367b67df1ca44811aa2f7b6"
+metafile = true
+
+[[files]]
+file = "mods/healer.pw.toml"
+hash = "590ca5392c9c96cdc663d2f65d0919c27adce7e338e02eb88f394503b2e19149"
+metafile = true
+
+[[files]]
+file = "mods/i18nupdatemod.pw.toml"
+hash = "d9f95a148d1044f9fb4fe5fb98fe5175fb8c3f1983cfee8f14786e7b8c0fa942"
+metafile = true
+
+[[files]]
+file = "mods/in-game-account-switcher.pw.toml"
+hash = "4f86cbe8dd288cb4448ebdaf7266a5e74e91adf44b88fc473ffe77dbe16e29f1"
+metafile = true
+
+[[files]]
+file = "mods/matmos.pw.toml"
+hash = "2ac014a184f0fc4f213b015280c622ce6c31aefd823f0b1defe84f25b82d65cd"
+metafile = true
+
+[[files]]
+file = "mods/minecraftcapes.pw.toml"
+hash = "7916a59c27ba3cf46d8ea012e2ccb849ab11f7168927e8f2507a7900a8e6bbc4"
+metafile = true
+
+[[files]]
+file = "mods/modern-splash.pw.toml"
+hash = "400a7066c8f963cc9d6c802487ad6be1987c1c051f691013be5ab88bdecec2c2"
+metafile = true
+
+[[files]]
+file = "mods/modernkeybinding.pw.toml"
+hash = "2e464e9cbaf444551df4429aa016a5f916a741c6f2a527bc70b564c82e2bc8ef"
+metafile = true
+
+[[files]]
+file = "mods/notenoughitems-unofficial.pw.toml"
+hash = "12917fb9c1576c2275582cef959a718f6bce7637bd4b6a4d72e36fe4ad804f04"
+metafile = true
+
+[[files]]
+file = "mods/notes.pw.toml"
+hash = "7bb05045d00dc529beaa86b9d1f97e1ee7515a7d3ad91594d45118536c92be0a"
+metafile = true
+
+[[files]]
+file = "mods/patpatpat.pw.toml"
+hash = "a60f1368be9c0c5cf484ed3cf3ac0a1cc3289c85df5ad86316e7a1a5f608474b"
+metafile = true
+
+[[files]]
+file = "mods/pipeblocker.pw.toml"
+hash = "f991acf92f93d1207cb2b4dcb7c4e4871245761021914db2109a8e3797b1ae0a"
+metafile = true
+
+[[files]]
+file = "mods/raw-input.pw.toml"
+hash = "c33f4ce7df09ddcbd808446733b7db239535decf659f77eac476355fab75f3ab"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-organizer.pw.toml"
+hash = "32e0e4f6f3e76b7e81891403883f6ceb5e7467d3cd93391e746d8ca56b18780c"
+metafile = true
+
+[[files]]
+file = "mods/serializationisbad.pw.toml"
+hash = "52f15ab08d2c34a1580506865063a3da66f012b4b95b88573efd41240cb68be4"
+metafile = true
+
+[[files]]
+file = "mods/tileentity-reset-fix.pw.toml"
+hash = "c03f44c188024e8051b2d370774a0c2237bfbb5c2fdb15ebef01c6e349ad3956"
+metafile = true
+
+[[files]]
+file = "mods/unimixins.pw.toml"
+hash = "93b4483ca7b2ecb339702abd25d7f47f80e8f15244fe48493f46198b86aedc35"
+metafile = true
+
+[[files]]
+file = "mods/waila.pw.toml"
+hash = "1ce389a8d9488dd7d37490c1498d10412b7430b18cc0faa28f47afc9cf896b57"
+metafile = true
+
+[[files]]
+file = "mods/wawla.pw.toml"
+hash = "e25d0fabd7c365e65c74c983621615f959d3ace9b53bdcad2e638b0cc7a6d51a"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "6881bdb0155cafa7865f71fd53422983192139e7bc72221493813d867935e6a4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "82b3576d8c40c8608768fe8b124980de7f8c405cdd1c82cf5d8a50bc099389c1"
+metafile = true
